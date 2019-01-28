@@ -1,0 +1,30 @@
+﻿ReservationID,RentalDate,CustomerName,Make,Model,Car_Type,RentalDays,MilesUsed
+330230001,8/15/10,Robert Green,Chevy,Impala,Full-size car,8,2033
+110010001,8/15/10,Dennis White,Chevy,Aveo,Economy car,61,2089
+330540001,8/15/10,John Dupuis,Chevy,Aveo,Economy car,41,2197
+550550001,4/22/11,Maricela Allen,Chevy,Impala,Full-size car,23,1336
+110940001,4/22/11,Candace Rogers,Toyota,Corolla,Mid-size car,20,1233
+550790002,1/22/12,Frankie Edwards,Chevy,Tahoe,SUV,24,1509
+660430001,1/22/12,Jeremy Barnes,Toyota,Corolla,Mid-size car,24,1220
+660470001,1/22/12,Edward Rose,Toyota,Corolla,Mid-size car,24,1100
+110160001,1/22/12,Barbara Houston,Chevy,Aveo,Economy car,24,1691
+660040001,1/22/12,Joseph Brown,Chevy,Aveo,Economy car,34,1550
+660300001,1/22/12,Robert Barnhardt,Hyundai,Accent,Economy car,34,2289
+440520001,1/22/12,Margaret Ferdinand,Hyundai,Accent,Economy car,24,1940
+770490001,1/22/12,Noel Couture,Chevy,Tahoe,SUV,22,712
+550510001,1/22/12,Daniel Custer,Toyota,Corolla,Mid-size car,21,1289
+110170001,2/25/12,Daniel Davis,Chevy,Aveo,Economy car,26,1358
+660010001,2/25/12,Donald Warner,Chevy,Aveo,Economy car,20,1334
+440660001,2/25/12,Brittany Marino,Hyundai,Accent,Economy car,57,3262
+770260001,2/25/12,Ernestine Bucher,Hyundai,Accent,Economy car,18,2193
+440090001,2/25/12,Frank Young,Chevy,Aveo,Economy car,19,1417
+440100001,4/5/12,Travis Manahan,Chevy,Aveo,Economy car,15,2331
+220330001,4/5/12,Maria Caldwell,Chevy,Aveo,Economy car,18,782
+550660001,4/5/12,Kenny Rascon,Chevy,Impala,Full-size car,10,1947
+110180001,4/5/12,Herbert Haase,Chevy,Aveo,Economy car,20,1886
+220840001,4/5/12,Samuel Robertson,Chevy,Aveo,Economy car,21,471
+660390001,4/5/12,Susan Thayer,Hyundai,Accent,Economy car,20,2250
+221240001,5/26/11,Davida Reagan,Toyota,Corolla,Mid-size car,29,1640
+110950001,5/26/11,Charles Richardson,Toyota,Corolla,Mid-size car,33,1200
+110190001,5/26/11,Lorraine Hamilton,Chevy,Aveo,Economy car,18,278
+110200001,6/24/11,Thomas McDonald,Chevy,Aveo,Economy car,11,589
